@@ -1,0 +1,14 @@
+.DS_Store
+.classpath
+.project
+.factorypath
+.settings/
+.gwt/
+.externalToolBuilders/
+.apt_generated/
+*.launch
+
+war/mvplayout/
+war/WEB-INF/deploy
+war/WEB-INF/classes
+mvp4g-apt-*.jar
